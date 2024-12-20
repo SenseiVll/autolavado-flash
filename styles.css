@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Logo{
+    text-align: left;
+   
+    
+}
+.titulo{
+    text-align: center;
+    color: rgb(215, 230, 83);
+    background-color: cadetblue;
+    margin: 10px;
+    padding: 6px;
+}
+.map{
+    margin: 10px;
+    
+}
+.ubicacion{
+    padding: 3px;
+}
+.ubicacion a{
+    margin: 10px;
+    padding: 6px;
+    border-radius: 50px;
+    text-decoration: none;
+    background-color: rgb(68, 131, 76);
+    color: rgb(255, 255, 255);
+    
+}
